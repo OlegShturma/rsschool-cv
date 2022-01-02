@@ -22,7 +22,8 @@
 -----
 
 ## ***Code Examples***
-/*let browser = prompt ('Какой браузер?', '')
+```
+let browser = prompt ('Какой браузер?', '')
     if (browser ==="Edge") {
         alert ("You've got the Edge!")
     }
@@ -41,7 +42,8 @@
     else {
         alert( 'We hope that this page looks ok!' );  
     }
-}*/
+}
+```
 -----
 
 ## ***Education***
