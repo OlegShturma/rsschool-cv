@@ -1,4 +1,4 @@
-# Shturma Oleg
+# **Shturma Oleg**
 ## ***My Contact Info:***
 
     * Phone: +375(29)7847389
