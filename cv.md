@@ -53,4 +53,3 @@ let browser = prompt ('Какой браузер?', '')
     * Russian - native speaker.
     * English - A2 (B1 in process…)
     * Polish - native speaker.
-
