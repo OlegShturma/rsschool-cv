@@ -1,3 +1,3 @@
 
-    https://OlegShturma.github.io/rsschool-cv/cv
-    https://OlegShturma.github.io/rsschool-cv/
+    https://github.com/OlegShturma/rsschool-cv/blob/gh-pages/cv.md
+    https://github.com/OlegShturma/rsschool-cv
