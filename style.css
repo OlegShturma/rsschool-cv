@@ -3,6 +3,18 @@ body {
      background-color: #c4a5c4;
 
     }
+    main {
+      font-size: 60px;  
+      font-weight: bolder;
+      text-align: center;
+    }
+    nav {
+      text-align: left;
+      color: rgb(29, 153, 56);
+    }
+    .nav-list {
+      text-align: left;
+    }
     h1 {
       font-size: 70px;  
       font-weight: bolder;
@@ -33,4 +45,18 @@ body {
     pre {
         font-size: 20px;
     }
+    div {
+      display: flex;
+      justify-content: space-between;
+       align-items: flex-start;
+      flex-wrap: wrap;
+      height: 100%;
+    }
+    footer {
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      height: 40%;
+    }
+    
    
