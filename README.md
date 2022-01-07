@@ -1,1 +1,1 @@
-https://github.com/OlegShturma/rsschool-cv/tree/rsschool-cv-html
+https://olegshturma.github.io/rsschool-cv/
